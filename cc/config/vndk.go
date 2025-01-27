@@ -26,6 +26,7 @@ var VndkMustUseVendorVariantList = []string{
 	"libexpat",
 	"libgatekeeper",
 	"libgui",
+	"libhardware_legacy",
 	"libhidlcache",
 	"libkeymaster_messages",
 	"libkeymaster_portable",
